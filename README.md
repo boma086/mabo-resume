@@ -1,3 +1,40 @@
+[Hugging Face Agents
+](https://cdn-uploads.huggingface.co/production/uploads/noauth/P6DboJDpiR0Zad75RgZZt.webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 通过拖拽加配置快速生成简历
 
 ![screen shot edit](.github/screen-shot-edit.png)
