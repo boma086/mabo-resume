@@ -6,7 +6,7 @@ Welcome to my GitHub.
 
 ## My Skills
 
-[![Java icon](./assets/icons/Java.svg)](#) [![Spring Boot icon](./assets/icons/SpringBoot.svg)](#) [![VueJS icon](./assets/icons/VueJS.svg)](#) [![Angular icon](./assets/icons/Angular.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![REST API icon](./assets/icons/RESTAPI.svg)](#) [![Microservices icon](./assets/icons/Microservices.svg)](#) [![AWS icon](./assets/icons/AWS.svg)](#) [![Docker icon](./assets/icons/Docker.svg)](#)
+[![HTML icon](./assets/icons/HTML.svg)](#) [![Java icon](./assets/icons/Java.svg)](#) [![Spring Boot icon](./assets/icons/SpringBoot.svg)](#) [![VueJS icon](./assets/icons/VueJS.svg)](#) [![Angular icon](./assets/icons/Angular.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![REST API icon](./assets/icons/RESTAPI.svg)](#) [![Microservices icon](./assets/icons/Microservices.svg)](#) [![AWS icon](./assets/icons/AWS.svg)](#) [![Docker icon](./assets/icons/Docker.svg)](#)
 
 ## Learning
 
