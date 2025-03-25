@@ -6,23 +6,29 @@ Welcome to my GitHub.
 
 ## My Skills
 
-[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![GraphQL icon](./assets/icons/GraphQL.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
+[![Java icon](./assets/icons/Java.svg)](#) [![Spring Boot icon](./assets/icons/SpringBoot.svg)](#) [![VueJS icon](./assets/icons/VueJS.svg)](#) [![Angular icon](./assets/icons/Angular.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![REST API icon](./assets/icons/RESTAPI.svg)](#) [![Microservices icon](./assets/icons/Microservices.svg)](#) [![AWS icon](./assets/icons/AWS.svg)](#) [![Docker icon](./assets/icons/Docker.svg)](#)
 
 ## Learning
 
-I'm going to become a MERN Stack Developer.
+I'm currently exploring COBOL and mainframe development for insurance systems.
 
-[![React icon](./assets/icons/ReactJS.svg)](#) [![NodeJS icon](./assets/icons/NodeJS.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![NextJS icon](./assets/icons/NextJS.svg)](#) [![MongoDB icon](./assets/icons/MongoDB.svg)](#)
+[![COBOL icon](./assets/icons/COBOL.svg)](#) [![Smart/400 icon](./assets/icons/Smart400.svg)](#) [![IBM Mainframe icon](./assets/icons/IBM.svg)](#)
 
 ## Interested in
 
-[![TypeScript icon](./assets/icons/TypeScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![Electron icon](./assets/icons/ElectronJS.svg)](#)
+[![Rust icon](./assets/icons/Rust.svg)](#) [![TypeScript icon](./assets/icons/TypeScript.svg)](#) [![ServiceNow icon](./assets/icons/ServiceNow.svg)](#)
 
 ## Get in touch
 
-[![Whatsapp icon](./assets/icons/Whatsapp.svg)](https://wa.me/15123681993) [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com) [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102) [![Telegram icon](./assets/icons/Telegram.svg)](https://t.me/tonicsteam) [![LinkedIn icon](./assets/icons/LinkedIn.svg)](https://www.linkedin.com/in/tonic-s-team-1642a0273/)
+[![Gmail icon](./assets/icons/Gmail.svg)](mailto:boma086@gmail.com) [![LinkedIn icon](./assets/icons/LinkedIn.svg)](https://www.linkedin.com/in/boma086/) [![GitHub icon](./assets/icons/GitHub.svg)](https://github.com/boma086)
 
 ## My projects
 
-[![Gotcha icon](./assets/icons/Gotcha.svg)](#)
-Landing page Gotcha.
+[![Payment Integration System icon](./assets/icons/Payment.svg)](#)
+
+A multi-payment integration system supporting WeChat Pay, Alipay, and Stripe.
+
+[![COBOL Insurance System icon](./assets/icons/COBOLProject.svg)](#)
+
+A COBOL-based insurance system for policy management and claims processing.
+
