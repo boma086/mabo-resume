@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css" />
+ <link rel="stylesheet" href="css/style.css" />
 
 ## Hi there 👋
 
@@ -6,67 +6,23 @@ Welcome to my GitHub.
 
 ## My Skills
 
-[![HTML icon](./assets/icons/HTML.svg)](#) 
+[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![GraphQL icon](./assets/icons/GraphQL.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
 
 ## Learning
 
-I'm currently exploring COBOL and mainframe development for insurance systems.
+I'm going to become a MERN Stack Developer.
 
-[![COBOL icon](./assets/icons/COBOL.svg)](#) [![Smart/400 icon](./assets/icons/Smart400.svg)](#) [![IBM Mainframe icon](./assets/icons/IBM.svg)](#)
+[![React icon](./assets/icons/ReactJS.svg)](#) [![NodeJS icon](./assets/icons/NodeJS.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![NextJS icon](./assets/icons/NextJS.svg)](#) [![MongoDB icon](./assets/icons/MongoDB.svg)](#)
 
 ## Interested in
 
-[![Rust icon](./assets/icons/Rust.svg)](#) [![TypeScript icon](./assets/icons/TypeScript.svg)](#) [![ServiceNow icon](./assets/icons/ServiceNow.svg)](#)
+[![TypeScript icon](./assets/icons/TypeScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![Electron icon](./assets/icons/ElectronJS.svg)](#)
 
 ## Get in touch
 
-[![Gmail icon](./assets/icons/Gmail.svg)](mailto:boma086@gmail.com) [![LinkedIn icon](./assets/icons/LinkedIn.svg)](https://www.linkedin.com/in/boma086/) [![GitHub icon](./assets/icons/GitHub.svg)](https://github.com/boma086)
+[![Whatsapp icon](./assets/icons/Whatsapp.svg)](https://wa.me/15123681993) [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com) [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102) [![Telegram icon](./assets/icons/Telegram.svg)](https://t.me/tonicsteam) [![LinkedIn icon](./assets/icons/LinkedIn.svg)](https://www.linkedin.com/in/tonic-s-team-1642a0273/)
 
 ## My projects
 
-[![Payment Integration System icon](./assets/icons/Payment.svg)](#)
-
-A multi-payment integration system supporting WeChat Pay, Alipay, and Stripe.
-
-[![COBOL Insurance System icon](./assets/icons/COBOLProject.svg)](#)
-
-A COBOL-based insurance system for policy management and claims processing.
-
-
-
-[Hugging Face Agents
-](https://cdn-uploads.huggingface.co/production/uploads/noauth/P6DboJDpiR0Zad75RgZZt.webp)
-
+[![Gotcha icon](./assets/icons/Gotcha.svg)](#)
 Landing page Gotcha.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
